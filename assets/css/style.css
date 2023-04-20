@@ -10,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Class Selector */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -17,7 +18,7 @@ body {
     color: #ffffff;
 }
 
-h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -26,7 +27,6 @@ h1 {
     color: #d9dcd6;
 }
 
-/* Class Selector */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
