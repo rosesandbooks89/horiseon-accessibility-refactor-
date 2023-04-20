@@ -20,7 +20,7 @@ THEN I find a concise, descriptive title
 
 Changed tags to semantic tags to make them available for accessibility. 
 
-added alt tags to images to add accessible descriptor
+Added alt tags to images to add accessible descriptor
 
 This project taught me the importance of using semantic tags, and how they are applied to webpages. 
 
